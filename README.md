@@ -35,3 +35,7 @@ AttorneyGPT is a RAG based multilingual generative AI chatbot that is trained us
 I've added the working of chatbot by asking query in Tamil and the chatbot responds to me in Tamil.
 
 https://github.com/user-attachments/assets/32eb4895-8bc9-4f29-9bb9-779df68588cc
+
+#### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
