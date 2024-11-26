@@ -24,9 +24,11 @@ AttorneyGPT is a RAG based multilingual generative AI chatbot that is trained us
     streamlit run app.py
     ```
 #### 6. Output: 
-
+- Main Window
 ![out1](https://github.com/shriram-2109/AttorneyGPT/blob/main/images/Main_Image.png)
+- English
 ![out2](https://github.com/shriram-2109/AttorneyGPT/blob/main/images/English.png)
+- Tamil
 ![out3](https://github.com/shriram-2109/AttorneyGPT/blob/main/images/Tamil.png)
 
 #### 7. Walkthrough:
