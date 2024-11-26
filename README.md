@@ -1,4 +1,5 @@
-#AttorneyGPT - Multilingual Generative AI Law Chatbot
+# AttorneyGPT - Multilingual Generative AI Law Chatbot
+
 AttorneyGPT is a RAG based multilingual generative AI chatbot that is trained using Indian Penal Code data. This project was developed using Streamlit LangChain and TogetherAI API for the LLM. Ask any questions to the chatbot and it will give you the right justice as per the IPC.
 
 ![main](https://github.com/shriram-2109/AttorneyGPT/blob/main/images/AttorneyGPTcover.png)
@@ -31,4 +32,4 @@ AttorneyGPT is a RAG based multilingual generative AI chatbot that is trained us
 #### 7. Walkthrough:
 I've added the working of chatbot by asking query in Tamil and the chatbot responds to me in Tamil.
 
-![video](https://github.com/user-attachments/assets/32eb4895-8bc9-4f29-9bb9-779df68588cc)
+https://github.com/user-attachments/assets/32eb4895-8bc9-4f29-9bb9-779df68588cc
