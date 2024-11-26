@@ -36,6 +36,6 @@ I've added the working of chatbot by asking query in Tamil and the chatbot respo
 
 https://github.com/user-attachments/assets/32eb4895-8bc9-4f29-9bb9-779df68588cc
 
-#### License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
